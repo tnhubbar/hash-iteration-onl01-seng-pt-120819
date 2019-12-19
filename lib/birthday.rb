@@ -11,4 +11,3 @@ def happy_birthday(birthday_kids)
 end
 
 
-filter_parameter_logging
